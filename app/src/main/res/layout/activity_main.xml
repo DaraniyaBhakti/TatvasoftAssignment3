@@ -23,6 +23,7 @@
         android:layout_width="match_parent"
         android:id="@+id/etNum1"
         android:padding="10dp"
+        android:hint="Enter no. 1"
         android:layout_margin="30dp"
         />
     <EditText
@@ -30,6 +31,7 @@
         android:layout_width="match_parent"
         android:id="@+id/etNum2"
         android:padding="10dp"
+        android:hint="Enter no. 2"
         android:layout_margin="30dp"
         />
     <Button
