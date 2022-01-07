@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         int result = n1+n2;
         Log.i("debug", "Executed add operation");
         //tvResult.setText(result); //-----will not work
-        tvResult.setText("Result is = "+result);
+        tvResult.setText(result);
         Log.i("debug", "Executed program");
     }
 }

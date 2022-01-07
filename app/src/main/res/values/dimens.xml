@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeTextView">30sp</dimen>
+    <dimen name="resultTextSize">20sp</dimen>
+
+    <dimen name="margin">20dp</dimen>
+    <dimen name="editTextMargin">30dp</dimen>
+    <dimen name="editTextPadding">10dp</dimen>
+    <dimen name="resultMargin">20dp</dimen>
+</resources>

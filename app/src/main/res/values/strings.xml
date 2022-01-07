@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TatvasoftAssignment3</string>
+    <string name="debug_app">Debug App</string>
+    <string name="enter_no_1">Enter no. 1</string>
+    <string name="enter_no_2">Enter no. 2</string>
+    <string name="add_numbers">Add Numbers</string>
+    <string name="result">Result</string>
 </resources>
